@@ -1,0 +1,4 @@
+[environments.dev]
+store = "grebban-anders"
+path = "shopify/theme"
+nodelete = true
